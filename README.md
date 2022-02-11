@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shashankkumarIITB
-- 👀 I’m interested in anything which has the word Finance or Tech attached to it
-- 🌱 I’m currently learning Kubernetes and other DevOps tech
+- 👀 I’m interested in anything has Finance or Tech in it
+- 🌱 I’m currently exploring Kubernetes and other DevOps tech
 - 💞️ I’m looking to collaborate on projects related to algorithmic trading
 - 📫 Reach out to me at shashankkumar.cse.iitb@gmail.com / shashank.z.kumar@oracle.com
 
