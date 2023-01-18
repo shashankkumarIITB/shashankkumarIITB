@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shashankkumarIITB
-- 👀 I’m interested in anything has Finance or Tech attached to it
-- 🌱 I’m currently exploring Golang, Kubernetes and other DevOps tech
-- 💞️ I’m looking to collaborate on projects related to trading
+- 👋 Hi, I’m Shashank Kumar
+- 👀 I’m interested in Finance, Tech, AI, DevOps
+- 🌱 I’m currently exploring around startup ideas
+- 💞️ I’m looking to collaborate on projects related to finance
 - 📫 Reach out to me at shashankkumar.cse.iitb@gmail.com
 
 <!---
